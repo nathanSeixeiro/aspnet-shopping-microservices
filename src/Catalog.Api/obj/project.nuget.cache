@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oko8FNXuGX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sn1091308\\Documents\\___Estudo\\c#\\asp-miscroservices\\src\\Catalog.Api\\Catalog.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sn1091308\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
